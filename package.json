@@ -6,7 +6,7 @@
     "build": "rollup -c",
     "watch:tailwind": "postcss public/tailwind.css -o public/index.css -w",
     "dev": "run-p autobuild watch:tailwind",
-    "start": "sirv public"
+    "start": "sirv public --host"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
