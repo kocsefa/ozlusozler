@@ -17,8 +17,8 @@
     {#await promise}
       <span class="text-3xl">Yükleniyor...</span>
     {:then post}
-      <div class="text-3xl mb-8">{post.blunder}</div>
-      <div class="absolute right-0 bottom-0 m-4">{post.author}</div>
+      <div class="text-3xl mb-8">{post.b}</div>
+      <div class="absolute right-0 bottom-0 m-4">{post.a}</div>
     {/await}
   </div>
 </div>

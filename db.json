@@ -1,563 +1,563 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "author": "Gökhan Çörek",
-      "blunder": "Şafak senin adın neydi?"
-    },{
-      "id": 2,
-      "author": "Gökhan Çörek",
-      "blunder": "Ev göbek dolu."
-    },
-    {
-      "id": 3,
-      "author": "Gökhan Çörek",
-      "blunder": "Şeffaf peçete yok mu?"
-    },
-    {
-      "id": 4,
-      "author": "Gökhan Çörek",
-      "blunder": "Şu 4. köprüde..."
-    },
-    {
-      "id": 5,
-      "author": "Gökhan Çörek",
-      "blunder": "Hiçbir sıkın yoktu."
-    },
-    {
-      "id": 6,
-      "author": "Gökhan Çörek",
-      "blunder": "Çiftleşmeye hazır dişi inek"
-    },
-    {
-      "id": 7,
-      "author": "Gökhan Çörek",
-      "blunder": "Bizden farmot isteyecekler. (FORMAT)"
-    },
-    {
-      "id": 8,
-      "author": "Gökhan Çörek",
-      "blunder": "Piç kurulüğü"
-    },
-    {
-      "id": 9,
-      "author": "Gökhan Çörek",
-      "blunder": "Doğal gozu (Doğal Gaz?)"
-    },
-    {
-      "id": 10,
-      "author": "Gökhan Çörek",
-      "blunder": "Bu ne şiddat."
-    },
-    {
-      "id": 11,
-      "author": "Gökhan Çörek",
-      "blunder": "Ctrl-V'nin daha kısa bir yolu yok mu?"
-    },
-    {
-      "id": 12,
-      "author": "Gökhan Çörek",
-      "blunder": "O yanık kokusuna benzer o yanık."
-    },
-    {
-      "id": 13,
-      "author": "Gökhan Çörek",
-      "blunder": "Sanki sunucuda dibok yapabiliyoruz!"
-    },
-    {
-      "id": 14,
-      "author": "Gökhan Çörek",
-      "blunder": "Amele defteri"
-    },
-    {
-      "id": 15,
-      "author": "Gökhan Çörek",
-      "blunder": "Ön ballağını ..."
-    },
-    {
-      "id": 16,
-      "author": "Gökhan Çörek",
-      "blunder": "Eksüel (SQL)"
-    },
-    {
-      "id": 17,
-      "author": "Gökhan Çörek",
-      "blunder": "Ev göbek dolu."
-    },
-    {
-      "id": 18,
-      "author": "Gökhan Çörek",
-      "blunder": "Bongül Özer"
-    },
-    {
-      "id": 19,
-      "author": "Gökhan Çörek",
-      "blunder": "Aş içini."
-    },
-    {
-      "id": 20,
-      "author": "Gökhan Çörek",
-      "blunder": "İnsanın omzu acar."
-    },
-    {
-      "id": 21,
-      "author": "Gökhan Çörek",
-      "blunder": "Ev göbek dolu."
-    },
-    {
-      "id": 22,
-      "author": "Gökhan Çörek",
-      "blunder": "Betüm."
-    },
-    {
-      "id": 23,
-      "author": "Gökhan Çörek",
-      "blunder": "Eğitim Santrali (Söylemedi anladı.)"
-    },
-    {
-      "id": 24,
-      "author": "Gökhan Çörek",
-      "blunder": "Başka birinin kullandığı alete oturmuyorum."
-    },
-    {
-      "id": 25,
-      "author": "Sefa Koç",
-      "blunder": "Zeminci kat"
-    },
-    {
-      "id": 26,
-      "author": "Sefa Koç",
-      "blunder": "Yanlış bilinen doğrulardan mısın?"
-    },
-    {
-      "id": 27,
-      "author": "Sefa Koç",
-      "blunder": "Fiziksel müdahalede bulunulmamış. Genetiğiyle oynanmış."
-    },
-    {
-      "id": 28,
-      "author": "Sefa Koç",
-      "blunder": "Kısaüstüne (masaüstüne) kısayol yapıştır."
-    },
-    {
-      "id": 29,
-      "author": "Sefa Koç",
-      "blunder": "Tepsi süresi"
-    },
-    {
-      "id": 30,
-      "author": "Sefa Koç",
-      "blunder": "Günaydın bey mesut"
-    },
-    {
-      "id": 31,
-      "author": "Mesut İşsever",
-      "blunder": "Allah razı olsun sayende kahve yiyoruz."
-    },
-    {
-      "id": 32,
-      "author": "Mesut İşsever",
-      "blunder": "Geç mi yatamıyosun?"
-    },
-    {
-      "id": 33,
-      "author": "Mesut İşsever",
-      "blunder": "Her bölüm 13 bölüm mü?"
-    },
-    {
-      "id": 34,
-      "author": "Mesut İşsever",
-      "blunder": "Entity'ye çaktırmadan sütun silsek."
-    },
-    {
-      "id": 35,
-      "author": "Mesut İşsever",
-      "blunder": "Her ay şu ayda gönder."
-    },
-    {
-      "id": 36,
-      "author": "Mesut İşsever",
-      "blunder": "(Gökhan: Adam alamıyoruz ya noldu bize? (PUBG))/r/nMesut: Bu paraya kimse gelmez./r/nMesut: Biraz yükseltmeleri lazım."
-    },
-    {
-      "id": 37,
-      "author": "Mesut İşsever",
-      "blunder": "Sorarım lan sana mı sorucam."
-    },
-    {
-      "id": 38,
-      "author": "Mesut İşsever",
-      "blunder": "1 dakika 44 dakika."
-    },
-    {
-      "id": 39,
-      "author": "Mesut İşsever",
-      "blunder": "Olm megabyte diyosam gigabyte işte."
-    },
-    {
-      "id": 40,
-      "author": "Mesut İşsever",
-      "blunder": "Sorun devam ediyorsa düzelmiş olması gerekiyor."
-    },
-    {
-      "id": 41,
-      "author": "Mesut İşsever",
-      "blunder": "Keko!!! (Kero)"
-    },
-    {
-      "id": 42,
-      "author": "Mesut İşsever",
-      "blunder": "Free ücretli şeyler var."
-    },
-    {
-      "id": 43,
-      "author": "Mesut İşsever",
-      "blunder": "Kolonları yıkıyolar diye şikayet ettiler."
-    },
-    {
-      "id": 44,
-      "author": "Mesut İşsever",
-      "blunder": "Yanlış karıştırıyorsun."
-    },
-    {
-      "id": 45,
-      "author": "Halil Çankaroğlu",
-      "blunder": "1 km2 demeyelim abartı olur, 1000 m2."
-    },
-    {
-      "id": 46,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Cips balığı mı yesek?"
-    },
-    {
-      "id": 47,
-      "author": "Halil Çankaroğlu",
-      "blunder": "İkisinin ortak kapısı ayrı."
-    },
-    {
-      "id": 48,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Pazarı pazara bağlayan gece..."
-    },
-    {
-      "id": 49,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Kızı tuğladan evi muğladan yapacaksın."
-    },
-    {
-      "id": 50,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Elde değirmek (Kahve çekmek için) ???"
-    },
-    {
-      "id": 51,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Meteor sekerse"
-    },
-    {
-      "id": 52,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Ben galiba solağım lan."
-    },
-    {
-      "id": 53,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Burası pişmiş çorap kokuyor."
-    },
-    {
-      "id": 54,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Varolan bir özellik var anladığım kadarıyla."
-    },
-    {
-      "id": 55,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Şu çocuğa bir Allah'ın külü..."
-    },
-    {
-      "id": 56,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Allah'ın tokmağı yok."
-    },
-    {
-      "id": 57,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Deterjan var, başka borla çalışan ne var."
-    },
-    {
-      "id": 58,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Ben gördüğüme bakarım."
-    },
-    {
-      "id": 59,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Ağlayan Kek."
-    },
-    {
-      "id": 60,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Kız kovalayan. (Kız kaçıran muadili)"
-    },
-    {
-      "id": 61,
-      "author": "Halil Çankaroğlu",
-      "blunder": "Senin Pitonunu yesinler."
-    },
-    {
-      "id": 62,
-      "author": "Şafak Aybütüğ",
-      "blunder": "İki dakika kullanmayıversinler."
-    },
-    {
-      "id": 63,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Server is hala down."
-    },
-    {
-      "id": 64,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Kahveden makine mi alacaksın?"
-    },
-    {
-      "id": 65,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Biz burada ışık hızında hoparlör sıçmıyoruz..."
-    },
-    {
-      "id": 66,
-      "author": "Şafak Aybütüğ",
-      "blunder": "İşle ilgili işim olmaz."
-    },
-    {
-      "id": 67,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Np'nin n'si büyük hastanenin a'sı büyük."
-    },
-    {
-      "id": 68,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Adam haklısın deyince dedim ki haklıyım galiba. ***"
-    },
-    {
-      "id": 69,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Aşağı çıkıyorum."
-    },
-    {
-      "id": 70,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Aşk evliliği öldürür mü?"
-    },
-    {
-      "id": 71,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Stand Bey (standby)"
-    },
-    {
-      "id": 72,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Elektrikli priz aldırtdık."
-    },
-    {
-      "id": 73,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Path'lemişiz."
-    },
-    {
-      "id": 74,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Şuanda buradaysa gitmemiş olabilir."
-    },
-    {
-      "id": 75,
-      "author": "Şafak Aybütüğ",
-      "blunder": "Hizmet destekleri"
-    },
-    {
-      "id": 76,
-      "author": "Şafak Aybütüğ",
-      "blunder": "NTAuthority'nin E'si yok."
-    },
-    {
-      "id": 77,
-      "author": "Kerem Dinçer",
-      "blunder": "Her gün bir yıl çalışsak..."
-    },
-    {
-      "id": 78,
-      "author": "Kerem Dinçer",
-      "blunder": "Toplamları toplayıp mı genel toplama yazayım?"
-    },
-    {
-      "id": 79,
-      "author": "Kerem Dinçer",
-      "blunder": "Süratle hızlanıyor."
-    },
-    {
-      "id": 80,
-      "author": "Kerem Dinçer",
-      "blunder": "Mesut Boy"
-    },
-    {
-      "id": 81,
-      "author": "Kerem Dinçer",
-      "blunder": "Sıçmaya sıçıyım."
-    },
-    {
-      "id": 82,
-      "author": "Kerem Dinçer",
-      "blunder": "Adam orda. Yok işte."
-    },
-    {
-      "id": 83,
-      "author": "Kerem Dinçer",
-      "blunder": "İnsan gibi attı (at hayvanı)."
-    },
-    {
-      "id": 84,
-      "author": "Kerem Dinçer",
-      "blunder": "Neredeyse üstüme kızgın lav dökeceklerdi."
-    },
-    {
-      "id": 85,
-      "author": "Kerem Dinçer",
-      "blunder": "Çocuklar var children children gidiyo."
-    },
-    {
-      "id": 86,
-      "author": "Kerem Dinçer",
-      "blunder": "Ön parmaklarım."
-    },
-    {
-      "id": 87,
-      "author": "Kerem Dinçer",
-      "blunder": "Bilgisayarın kapanması önemli değil, Chrome'un kapanması lazım."
-    },
-    {
-      "id": 88,
-      "author": "Kerem Dinçer",
-      "blunder": "Ben esik de kaldırdım. ???"
-    },
-    {
-      "id": 89,
-      "author": "Kerem Dinçer",
-      "blunder": "Kork diye 'Korkma' diye bağırdım."
-    },
-    {
-      "id": 90,
-      "author": "Kerem Dinçer",
-      "blunder": "Prizi fişten çektim. * 2"
-    },
-    {
-      "id": 91,
-      "author": "Kerem Dinçer",
-      "blunder": "Fakir umudun ekmeği"
-    },
-    {
-      "id": 92,
-      "author": "Kerem Dinçer",
-      "blunder": "(Demirci usulü büfe sucuk)"
-    },
-    {
-      "id": 93,
-      "author": "Kazım Yeşilyurt",
-      "blunder": "Haftasonu 4 gün yağmur var."
-    },
-    {
-      "id": 94,
-      "author": "Kazım Yeşilyurt",
-      "blunder": "Orijinal çin malı"
-    },
-    {
-      "id": 95,
-      "author": "Kazım Yeşilyurt",
-      "blunder": "007 Freddie"
-    },
-    {
-      "id": 96,
-      "author": "Kazım Yeşilyurt",
-      "blunder": "80 Doyuro (Euro)"
-    },
-    {
-      "id": 97,
-      "author": "Demet Yeşilyurt",
-      "blunder": "Ekmekbank ((Halk Ekmek + Finans Bank) / 2)"
-    },
-    {
-      "id": 98,
-      "author": "Kübra Gülbakan",
-      "blunder": "Yazıcıda ameliyathane var."
-    },
-    {
-      "id": 99,
-      "author": "Veysel Balta",
-      "blunder": "Bizim tonerin yazıcısı bitmiş."
-    },
-    {
-      "id": 100,
-      "author": "Cemal Atar",
-      "blunder": "Oğlum yüzmeyi öğren ama bilmen önemli değil."
-    },
-    {
-      "id": 101,
-      "author": "Cemal Atar",
-      "blunder": "Sanki yasal bir suç işliyoruz."
-    },
-    {
-      "id": 102,
-      "author": "Cemal Atar",
-      "blunder": "Bugün hayatımda hiç sigara içmedim."
-    },
-    {
-      "id": 103,
-      "author": "Bilmed",
-      "blunder": "İşlem başarısız. Hata: İşlem başarıyla gerçekleşti."
-    },
-    {
-      "id": 104,
-      "author": "Tomruk",
-      "blunder": "Tam oruç tuttuğumda da üç beş gün eksiğim."
-    },
-    {
-      "id": 105,
-      "author": "Tomruk",
-      "blunder": "Ölümsüzlüğe çare bulmak lazım."
-    },
-    {
-      "id": 106,
-      "author": "Tomruk",
-      "blunder": "window.alert()"
-    },
-    {
-      "id": 107,
-      "author": "Tomruk",
-      "blunder": "Şuan beynim oksijen yakmıyor."
-    },
-    {
-      "id": 108,
-      "author": "Tomruk",
-      "blunder": "Kerem: Oo doğan bey karı kız mı kesiyosunuz?/r/nDoğan: Yok be müziklere bakıyorum."
-    },
-    {
-      "id": 109,
-      "author": "Tomruk",
-      "blunder": "Ağız tadıyla domalamıyoruz ya!"
-    },
-    {
-      "id": 110,
-      "author": "Tomruk",
-      "blunder": "Kafam ambalaj gibi. (biliyoruz)"
-    },
-    {
-      "id": 111,
-      "author": "Tomruk",
-      "blunder": "Ben sana dedim ama dedim mi demedim."
-    },
-    {
-      "id": 112,
-      "author": "Furkan Tarhan",
-      "blunder": "En iyi test sahada yapılır."
-    }
-  ]
+"posts": [
+{
+"id": 1,
+"a": "Gökhan Çörek",
+"b": "Şafak senin adın neydi?"
+},{
+"id": 2,
+"a": "Gökhan Çörek",
+"b": "Ev göbek dolu."
+},
+{
+"id": 3,
+"a": "Gökhan Çörek",
+"b": "Şeffaf peçete yok mu?"
+},
+{
+"id": 4,
+"a": "Gökhan Çörek",
+"b": "Şu 4. köprüde..."
+},
+{
+"id": 5,
+"a": "Gökhan Çörek",
+"b": "Hiçbir sıkın yoktu."
+},
+{
+"id": 6,
+"a": "Gökhan Çörek",
+"b": "Çiftleşmeye hazır dişi inek"
+},
+{
+"id": 7,
+"a": "Gökhan Çörek",
+"b": "Bizden farmot isteyecekler. (FORMAT)"
+},
+{
+"id": 8,
+"a": "Gökhan Çörek",
+"b": "Piç kurulüğü"
+},
+{
+"id": 9,
+"a": "Gökhan Çörek",
+"b": "Doğal gozu (Doğal Gaz?)"
+},
+{
+"id": 10,
+"a": "Gökhan Çörek",
+"b": "Bu ne şiddat."
+},
+{
+"id": 11,
+"a": "Gökhan Çörek",
+"b": "Ctrl-V'nin daha kısa bir yolu yok mu?"
+},
+{
+"id": 12,
+"a": "Gökhan Çörek",
+"b": "O yanık kokusuna benzer o yanık."
+},
+{
+"id": 13,
+"a": "Gökhan Çörek",
+"b": "Sanki sunucuda dibok yapabiliyoruz!"
+},
+{
+"id": 14,
+"a": "Gökhan Çörek",
+"b": "Amele defteri"
+},
+{
+"id": 15,
+"a": "Gökhan Çörek",
+"b": "Ön ballağını ..."
+},
+{
+"id": 16,
+"a": "Gökhan Çörek",
+"b": "Eksüel (SQL)"
+},
+{
+"id": 17,
+"a": "Gökhan Çörek",
+"b": "Ev göbek dolu."
+},
+{
+"id": 18,
+"a": "Gökhan Çörek",
+"b": "Bongül Özer"
+},
+{
+"id": 19,
+"a": "Gökhan Çörek",
+"b": "Aş içini."
+},
+{
+"id": 20,
+"a": "Gökhan Çörek",
+"b": "İnsanın omzu acar."
+},
+{
+"id": 21,
+"a": "Gökhan Çörek",
+"b": "Ev göbek dolu."
+},
+{
+"id": 22,
+"a": "Gökhan Çörek",
+"b": "Betüm."
+},
+{
+"id": 23,
+"a": "Gökhan Çörek",
+"b": "Eğitim Santrali (Söylemedi anladı.)"
+},
+{
+"id": 24,
+"a": "Gökhan Çörek",
+"b": "Başka birinin kullandığı alete oturmuyorum."
+},
+{
+"id": 25,
+"a": "Sefa Koç",
+"b": "Zeminci kat"
+},
+{
+"id": 26,
+"a": "Sefa Koç",
+"b": "Yanlış bilinen doğrulardan mısın?"
+},
+{
+"id": 27,
+"a": "Sefa Koç",
+"b": "Fiziksel müdahalede bulunulmamış. Genetiğiyle oynanmış."
+},
+{
+"id": 28,
+"a": "Sefa Koç",
+"b": "Kısaüstüne (masaüstüne) kısayol yapıştır."
+},
+{
+"id": 29,
+"a": "Sefa Koç",
+"b": "Tepsi süresi"
+},
+{
+"id": 30,
+"a": "Sefa Koç",
+"b": "Günaydın bey mesut"
+},
+{
+"id": 31,
+"a": "Mesut İşsever",
+"b": "Allah razı olsun sayende kahve yiyoruz."
+},
+{
+"id": 32,
+"a": "Mesut İşsever",
+"b": "Geç mi yatamıyosun?"
+},
+{
+"id": 33,
+"a": "Mesut İşsever",
+"b": "Her bölüm 13 bölüm mü?"
+},
+{
+"id": 34,
+"a": "Mesut İşsever",
+"b": "Entity'ye çaktırmadan sütun silsek."
+},
+{
+"id": 35,
+"a": "Mesut İşsever",
+"b": "Her ay şu ayda gönder."
+},
+{
+"id": 36,
+"a": "Mesut İşsever",
+"b": "(Gökhan: Adam alamıyoruz ya noldu bize? (PUBG))/r/nMesut: Bu paraya kimse gelmez./r/nMesut: Biraz yükseltmeleri lazım."
+},
+{
+"id": 37,
+"a": "Mesut İşsever",
+"b": "Sorarım lan sana mı sorucam."
+},
+{
+"id": 38,
+"a": "Mesut İşsever",
+"b": "1 dakika 44 dakika."
+},
+{
+"id": 39,
+"a": "Mesut İşsever",
+"b": "Olm megabyte diyosam gigabyte işte."
+},
+{
+"id": 40,
+"a": "Mesut İşsever",
+"b": "Sorun devam ediyorsa düzelmiş olması gerekiyor."
+},
+{
+"id": 41,
+"a": "Mesut İşsever",
+"b": "Keko!!! (Kero)"
+},
+{
+"id": 42,
+"a": "Mesut İşsever",
+"b": "Free ücretli şeyler var."
+},
+{
+"id": 43,
+"a": "Mesut İşsever",
+"b": "Kolonları yıkıyolar diye şikayet ettiler."
+},
+{
+"id": 44,
+"a": "Mesut İşsever",
+"b": "Yanlış karıştırıyorsun."
+},
+{
+"id": 45,
+"a": "Halil Çankaroğlu",
+"b": "1 km2 demeyelim abartı olur, 1000 m2."
+},
+{
+"id": 46,
+"a": "Halil Çankaroğlu",
+"b": "Cips balığı mı yesek?"
+},
+{
+"id": 47,
+"a": "Halil Çankaroğlu",
+"b": "İkisinin ortak kapısı ayrı."
+},
+{
+"id": 48,
+"a": "Halil Çankaroğlu",
+"b": "Pazarı pazara bağlayan gece..."
+},
+{
+"id": 49,
+"a": "Halil Çankaroğlu",
+"b": "Kızı tuğladan evi muğladan yapacaksın."
+},
+{
+"id": 50,
+"a": "Halil Çankaroğlu",
+"b": "Elde değirmek (Kahve çekmek için) ???"
+},
+{
+"id": 51,
+"a": "Halil Çankaroğlu",
+"b": "Meteor sekerse"
+},
+{
+"id": 52,
+"a": "Halil Çankaroğlu",
+"b": "Ben galiba solağım lan."
+},
+{
+"id": 53,
+"a": "Halil Çankaroğlu",
+"b": "Burası pişmiş çorap kokuyor."
+},
+{
+"id": 54,
+"a": "Halil Çankaroğlu",
+"b": "Varolan bir özellik var anladığım kadarıyla."
+},
+{
+"id": 55,
+"a": "Halil Çankaroğlu",
+"b": "Şu çocuğa bir Allah'ın külü..."
+},
+{
+"id": 56,
+"a": "Halil Çankaroğlu",
+"b": "Allah'ın tokmağı yok."
+},
+{
+"id": 57,
+"a": "Halil Çankaroğlu",
+"b": "Deterjan var, başka borla çalışan ne var."
+},
+{
+"id": 58,
+"a": "Halil Çankaroğlu",
+"b": "Ben gördüğüme bakarım."
+},
+{
+"id": 59,
+"a": "Halil Çankaroğlu",
+"b": "Ağlayan Kek."
+},
+{
+"id": 60,
+"a": "Halil Çankaroğlu",
+"b": "Kız kovalayan. (Kız kaçıran muadili)"
+},
+{
+"id": 61,
+"a": "Halil Çankaroğlu",
+"b": "Senin Pitonunu yesinler."
+},
+{
+"id": 62,
+"a": "Şafak Aybütüğ",
+"b": "İki dakika kullanmayıversinler."
+},
+{
+"id": 63,
+"a": "Şafak Aybütüğ",
+"b": "Server is hala down."
+},
+{
+"id": 64,
+"a": "Şafak Aybütüğ",
+"b": "Kahveden makine mi alacaksın?"
+},
+{
+"id": 65,
+"a": "Şafak Aybütüğ",
+"b": "Biz burada ışık hızında hoparlör sıçmıyoruz..."
+},
+{
+"id": 66,
+"a": "Şafak Aybütüğ",
+"b": "İşle ilgili işim olmaz."
+},
+{
+"id": 67,
+"a": "Şafak Aybütüğ",
+"b": "Np'nin n'si büyük hastanenin a'sı büyük."
+},
+{
+"id": 68,
+"a": "Şafak Aybütüğ",
+"b": "Adam haklısın deyince dedim ki haklıyım galiba. ***"
+},
+{
+"id": 69,
+"a": "Şafak Aybütüğ",
+"b": "Aşağı çıkıyorum."
+},
+{
+"id": 70,
+"a": "Şafak Aybütüğ",
+"b": "Aşk evliliği öldürür mü?"
+},
+{
+"id": 71,
+"a": "Şafak Aybütüğ",
+"b": "Stand Bey (standby)"
+},
+{
+"id": 72,
+"a": "Şafak Aybütüğ",
+"b": "Elektrikli priz aldırtdık."
+},
+{
+"id": 73,
+"a": "Şafak Aybütüğ",
+"b": "Path'lemişiz."
+},
+{
+"id": 74,
+"a": "Şafak Aybütüğ",
+"b": "Şuanda buradaysa gitmemiş olabilir."
+},
+{
+"id": 75,
+"a": "Şafak Aybütüğ",
+"b": "Hizmet destekleri"
+},
+{
+"id": 76,
+"a": "Şafak Aybütüğ",
+"b": "NTaity'nin E'si yok."
+},
+{
+"id": 77,
+"a": "Kerem Dinçer",
+"b": "Her gün bir yıl çalışsak..."
+},
+{
+"id": 78,
+"a": "Kerem Dinçer",
+"b": "Toplamları toplayıp mı genel toplama yazayım?"
+},
+{
+"id": 79,
+"a": "Kerem Dinçer",
+"b": "Süratle hızlanıyor."
+},
+{
+"id": 80,
+"a": "Kerem Dinçer",
+"b": "Mesut Boy"
+},
+{
+"id": 81,
+"a": "Kerem Dinçer",
+"b": "Sıçmaya sıçıyım."
+},
+{
+"id": 82,
+"a": "Kerem Dinçer",
+"b": "Adam orda. Yok işte."
+},
+{
+"id": 83,
+"a": "Kerem Dinçer",
+"b": "İnsan gibi attı (at hayvanı)."
+},
+{
+"id": 84,
+"a": "Kerem Dinçer",
+"b": "Neredeyse üstüme kızgın lav dökeceklerdi."
+},
+{
+"id": 85,
+"a": "Kerem Dinçer",
+"b": "Çocuklar var children children gidiyo."
+},
+{
+"id": 86,
+"a": "Kerem Dinçer",
+"b": "Ön parmaklarım."
+},
+{
+"id": 87,
+"a": "Kerem Dinçer",
+"b": "Bilgisayarın kapanması önemli değil, Chrome'un kapanması lazım."
+},
+{
+"id": 88,
+"a": "Kerem Dinçer",
+"b": "Ben esik de kaldırdım. ???"
+},
+{
+"id": 89,
+"a": "Kerem Dinçer",
+"b": "Kork diye 'Korkma' diye bağırdım."
+},
+{
+"id": 90,
+"a": "Kerem Dinçer",
+"b": "Prizi fişten çektim. * 2"
+},
+{
+"id": 91,
+"a": "Kerem Dinçer",
+"b": "Fakir umudun ekmeği"
+},
+{
+"id": 92,
+"a": "Kerem Dinçer",
+"b": "(Demirci usulü büfe sucuk)"
+},
+{
+"id": 93,
+"a": "Kazım Yeşilyurt",
+"b": "Haftasonu 4 gün yağmur var."
+},
+{
+"id": 94,
+"a": "Kazım Yeşilyurt",
+"b": "Orijinal çin malı"
+},
+{
+"id": 95,
+"a": "Kazım Yeşilyurt",
+"b": "007 Freddie"
+},
+{
+"id": 96,
+"a": "Kazım Yeşilyurt",
+"b": "80 Doyuro (Euro)"
+},
+{
+"id": 97,
+"a": "Demet Yeşilyurt",
+"b": "Ekmekbank ((Halk Ekmek + Finans Bank) / 2)"
+},
+{
+"id": 98,
+"a": "Kübra Gülbakan",
+"b": "Yazıcıda ameliyathane var."
+},
+{
+"id": 99,
+"a": "Veysel Balta",
+"b": "Bizim tonerin yazıcısı bitmiş."
+},
+{
+"id": 100,
+"a": "Cemal Atar",
+"b": "Oğlum yüzmeyi öğren ama bilmen önemli değil."
+},
+{
+"id": 101,
+"a": "Cemal Atar",
+"b": "Sanki yasal bir suç işliyoruz."
+},
+{
+"id": 102,
+"a": "Cemal Atar",
+"b": "Bugün hayatımda hiç sigara içmedim."
+},
+{
+"id": 103,
+"a": "Bilmed",
+"b": "İşlem başarısız. Hata: İşlem başarıyla gerçekleşti."
+},
+{
+"id": 104,
+"a": "Tomruk",
+"b": "Tam oruç tuttuğumda da üç beş gün eksiğim."
+},
+{
+"id": 105,
+"a": "Tomruk",
+"b": "Ölümsüzlüğe çare bulmak lazım."
+},
+{
+"id": 106,
+"a": "Tomruk",
+"b": "window.alert()"
+},
+{
+"id": 107,
+"a": "Tomruk",
+"b": "Şuan beynim oksijen yakmıyor."
+},
+{
+"id": 108,
+"a": "Tomruk",
+"b": "Kerem: Oo doğan bey karı kız mı kesiyosunuz?/r/nDoğan: Yok be müziklere bakıyorum."
+},
+{
+"id": 109,
+"a": "Tomruk",
+"b": "Ağız tadıyla domalamıyoruz ya!"
+},
+{
+"id": 110,
+"a": "Tomruk",
+"b": "Kafam ambalaj gibi. (biliyoruz)"
+},
+{
+"id": 111,
+"a": "Tomruk",
+"b": "Ben sana dedim ama dedim mi demedim."
+},
+{
+"id": 112,
+"a": "Furkan Tarhan",
+"b": "En iyi test sahada yapılır."
+}
+]
 }
