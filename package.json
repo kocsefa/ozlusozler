@@ -4,6 +4,7 @@
   "scripts": {
     "autobuild": "rollup -c -w",
     "build": "rollup -c",
+    "build:tailwind": "postcss public/tailwind.css -o public/index.css",
     "watch:tailwind": "postcss public/tailwind.css -o public/index.css -w",
     "dev": "run-p autobuild watch:tailwind",
     "start": "sirv public --host"
